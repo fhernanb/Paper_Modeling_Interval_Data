@@ -4,3 +4,5 @@ This GitHub repository contains the supplementary material for the paper "Modeli
 Approach for Clustered and Longitudinal Structures".
 
 <img src="figs/equation.png" align="left" alt="" width="320" />
+
+
