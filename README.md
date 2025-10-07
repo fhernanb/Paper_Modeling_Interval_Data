@@ -1,2 +1,4 @@
-# Paper_Modeling_Interval_Data
-GitHub repository with the supplementary material
+# Supplementary material
+
+This GitHub repository contains the supplementary material for the paper "Modeling Interval Data with Random Intercepts: A Beta Regression
+Approach for Clustered and Longitudinal Structures".
